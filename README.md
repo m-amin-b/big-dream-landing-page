@@ -64,7 +64,7 @@ To style the page, I have used only the Flex module, which is a CSS module.
 Within the download file you'll find the following directories and files:
 
 ```
-Amin-Game-Store-Landing-Page/
+big-dream-landing-page/
 ├── assets/
 |   ├── css/
 |   |   └── style.css
